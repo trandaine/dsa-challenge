@@ -46,3 +46,6 @@ export function binarySearch(arr, target) {
 
   return -1;
 }
+
+// Time complexity: O(log n )
+// Space complexity: O(1)
