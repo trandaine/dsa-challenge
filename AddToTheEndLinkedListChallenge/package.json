@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test:tail": "vitest addToEndUsingTail",
+    "test:head": "vitest addToEndUsingHead"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
