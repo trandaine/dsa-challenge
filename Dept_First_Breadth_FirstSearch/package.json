@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test:depthFirstSearch": "vitest depthFirstSearch",
+    "test:breadthFirstSearch": "vitest breadthFirstSearch"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
