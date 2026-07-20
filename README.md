@@ -22,3 +22,12 @@ Welcome to the repository showcasing my certification for **[Scrimba course - Da
 
 ---
 
+## 💡 What I Learned
+
+Completing this course strengthened my understanding of **Data Structures, Algorithms, and software optimization**, specifically focusing on:
+
+* **Algorithmic Analysis & Big O Notation:** Measuring and evaluating code efficiency by analyzing both the time complexity and space complexity of different approaches.
+
+* **Fundamental Data Structures:** Implementing and selecting the most efficient structures for organizing data, including arrays, linked lists, stacks, queues, maps, trees (Binary and BST), and graphs.
+
+* **Problem-Solving Techniques:** Applying sorting and searching algorithms, leveraging recursion for elegant solutions, and traversing complex trees and graphs using Breadth-First Search (BFS) and Depth-First Search (DFS).
